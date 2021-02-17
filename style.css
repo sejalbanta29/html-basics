@@ -52,14 +52,10 @@
   display: flex;
   justify-content: space-between
 }
-.wrap img
+.wrap img2
 {
     float: left;
-}
-.clearfix
-{
-    overflow: auto;
-}    
+}   
 .wrap p
 {
     text-align: justify;
